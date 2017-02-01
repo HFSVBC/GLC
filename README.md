@@ -15,4 +15,4 @@ post_id     = ""
 ./NameChanger.py
 ```
 ###Authors
-Hugo Filiepe Curado, [https://www.hugocurado.info](https://www.hugocurado.info)
+Hugo Filipe Curado, [https://www.hugocurado.info](https://www.hugocurado.info)
