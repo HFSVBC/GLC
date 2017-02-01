@@ -10,20 +10,18 @@ All data is saved under CSV format.
 
 __author__ = "Hugo Filipe Curado"
 __copyright__ = """
-	This file is part of AVT.
-
-    AVT is free software: you can redistribute it and/or modify
+    GLC is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
-    AVT is distributed in the hope that it will be useful,
+    GLC is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with AVT.  If not, see <http://www.gnu.org/licenses/>."""
+    along with GLC.  If not, see <http://www.gnu.org/licenses/>."""
 __version__ = "1.0"
 __maintainer__ = "Hugo Filipe Curado"
 __email__ = "hfsvbc@hugocurado.info"
@@ -31,7 +29,7 @@ __email__ = "hfsvbc@hugocurado.info"
 import urllib, json, codecs, codecs
 
 # ----------------- CONFIGURATION VARIABLES ------------------
-access_toke = ""
+access_toke = "" # needs developer registration on facebook
 page_id     = ""
 post_id     = ""
 # ------------------------------------------------------------
